@@ -1,4 +1,3 @@
-
 test-report.html
 target/
 *.log
@@ -9,3 +8,14 @@ target/
 /bin/*
 line-1 from branch
 line-2 from branch
+test-report.html
+target/
+*.log
+**/password.txt
+**/*.jar
+.war
+*.jpg
+/bin/*
+.tx
+Line 1 from Master
+Line 2 from Master
