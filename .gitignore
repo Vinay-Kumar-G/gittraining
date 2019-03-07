@@ -7,4 +7,5 @@ target/
 .war
 *.jpg
 /bin/*
-.txt
+.tx
+Line 1 from Master
