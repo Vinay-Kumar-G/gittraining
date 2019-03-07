@@ -6,6 +6,5 @@ target/
 **/*.jar
 .war
 *.jpg
-
 /bin/*
 .txt
